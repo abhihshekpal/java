@@ -1,9 +1,9 @@
-## cgi-ui-refresher-skill-check-jul31 - Coding Challenge
+## cgi-java-refresher-skill-check-jul31 - Coding Challenge
 
-    Duration: 1 hr
+    Duration: 1 hr 
 
 ### Instructions
-    Refer the customer-feedback-form.pdf file for problem description. 
+    Refer the cgi-java-refresher-skill-check-jul31.pdf file for problem description. 
 
 #### Please follow these steps
 
@@ -11,12 +11,12 @@
 
         2. **CLONE** the forked repository, containing the boilerplate in your local machine
             
-        3. Navigate to dotnet-ui-skill-check-i folder
+        3. Navigate to cgi-java-refresher-skill-check-jul31 folder
 
-            ` cd cgi-ui-refresher-skill-check-jul31`
+            ` cd cgi-java-refresher-skill-check-jul31`
 
-        4. Create an HTML project folder inside  'cgi-ui-refresher-skill-check-jul31' folder and 
-        complete the task as per the instructions given in 'customer-feedback-form.pdf'
+        4. Create a Java project folder inside  'cgi-java-refresher-skill-check-jul31' folder and 
+        complete the task as per the instructions given in 'cgi-java-refresher-skill-check-jul31.pdf'
 
         5. Use the following command to update the index using the current content found in the 
         working tree, to prepare the content staged for the next commit.
@@ -42,7 +42,7 @@
 
     - The code must be properly indented, code structure maintained and properly commented
 
-    - Follow through the problem statement ( cgi-ui-refresher-skill-check-jul31.pdf ) shared with you
+    - Follow through the problem statement ( cgi-java-refresher-skill-check-jul31.pdf ) shared with you
 
     - Screenshots of the output should be pushed along with the solution
 
